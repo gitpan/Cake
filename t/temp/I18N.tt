@@ -1,0 +1,7 @@
+[% SETTINGS %]
+layout:
+[% END %]
+[% c.loc('welcome','Mamod','Mehyar') %]
+
+[% c.set_lang('ar') %]
+[% c.loc('welcome','Mamod','Mehyar') %]
